@@ -1,0 +1,23 @@
+{
+    "id": "domolandes",
+    "name": "Domolandes",
+    "models": [
+        {
+            "id": "design",
+            "name": "Domolandes Design"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
